@@ -2,6 +2,7 @@
 E-commerce application developed using angular and symfony frameworks
 
 ## The Server App Using Symfony framework
+[Check out the client app here.][30]
 
 <p align="center"><a href="https://symfony.com" target="_blank">
     <img src="https://symfony.com/logos/symfony_black_02.svg">
@@ -79,3 +80,6 @@ Symfony development is sponsored by [SensioLabs][21], led by the
 [23]: https://github.com/symfony/symfony-demo
 [24]: https://symfony.com/coc
 [25]: https://symfony.com/doc/current/contributing/code_of_conduct/care_team.html
+[30]: https://github.com/ahmedTlijani/e-commerce-angular-app
+
+
